@@ -1,1664 +1,1664 @@
 {
-  "acala": {
-    "blockExplorers": {
-      "default": {
-        "name": "Acala Blockscout",
-        "url": "https://blockscout.acala.network",
-        "apiUrl": "https://blockscout.acala.network/api"
-      }
-    }
-  },
-  "arbitrum": {
-    "blockExplorers": {
-      "default": {
-        "name": "Arbiscan",
-        "url": "https://arbiscan.io",
-        "apiUrl": "https://api.arbiscan.io/api"
-      }
-    }
-  },
-  "arbitrumGoerli": {
-    "blockExplorers": {
-      "etherscan": {
-        "name": "Arbiscan",
-        "url": "https://goerli.arbiscan.io"
-      },
-      "default": {
-        "name": "Arbiscan",
-        "url": "https://goerli.arbiscan.io"
-      }
-    }
-  },
-  "arbitrumNova": {
-    "blockExplorers": {
-      "default": {
-        "name": "Arbiscan",
-        "url": "https://nova.arbiscan.io",
-        "apiUrl": "https://api-nova.arbiscan.io/api"
-      }
-    }
-  },
-  "arbitrumSepolia": {
-    "blockExplorers": {
-      "etherscan": {
-        "name": "Arbiscan",
-        "url": "https://sepolia.arbiscan.io",
-        "apiUrl": "https://sepolia.arbiscan.io/api"
-      },
-      "default": {
-        "name": "Arbiscan",
-        "url": "https://sepolia.arbiscan.io",
-        "apiUrl": "https://sepolia.arbiscan.io/api"
-      }
-    }
-  },
-  "astar": {
-    "blockExplorers": {
-      "default": {
-        "name": "Astar Subscan",
-        "url": "https://astar.subscan.io"
-      }
-    }
-  },
-  "astarZkatana": {
-    "blockExplorers": {
-      "blockscout": {
-        "name": "Blockscout zKatana chain explorer",
-        "url": "https://zkatana.blockscout.com",
-        "apiUrl": "https://zkatana.blockscout.com/api"
-      },
-      "default": {
-        "name": "zKatana Explorer",
-        "url": "https://zkatana.explorer.startale.com"
-      }
-    }
-  },
-  "aurora": {
-    "blockExplorers": {
-      "default": {
-        "name": "Aurorascan",
-        "url": "https://aurorascan.dev",
-        "apiUrl": "https://aurorascan.dev/api"
-      }
-    }
-  },
-  "auroraTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Aurorascan",
-        "url": "https://testnet.aurorascan.dev",
-        "apiUrl": "https://testnet.aurorascan.dev/api"
-      }
-    }
-  },
-  "avalanche": {
-    "blockExplorers": {
-      "default": {
-        "name": "SnowTrace",
-        "url": "https://snowtrace.io",
-        "apiUrl": "https://api.snowtrace.io/api"
-      }
-    }
-  },
-  "avalancheFuji": {
-    "blockExplorers": {
-      "default": {
-        "name": "SnowTrace",
-        "url": "https://testnet.snowtrace.io",
-        "apiUrl": "https://api-testnet.snowtrace.io/api"
-      }
-    }
-  },
-  "bahamut": {
-    "blockExplorers": {
-      "default": {
-        "name": "Ftnscan",
-        "url": "https://www.ftnscan.com",
-        "apiUrl": "https://www.ftnscan.com/api"
-      }
-    }
-  },
-  "base": {
-    "blockExplorers": {
-      "default": {
-        "name": "Basescan",
-        "url": "https://basescan.org",
-        "apiUrl": "https://api.basescan.org/api"
-      }
-    }
-  },
-  "baseGoerli": {
-    "blockExplorers": {
-      "default": {
-        "name": "Basescan",
-        "url": "https://goerli.basescan.org",
-        "apiUrl": "https://goerli.basescan.org/api"
-      }
-    }
-  },
-  "baseSepolia": {
-    "blockExplorers": {
-      "blockscout": {
-        "name": "Blockscout",
-        "url": "https://base-sepolia.blockscout.com",
-        "apiUrl": "https://base-sepolia.blockscout.com/api"
-      },
-      "default": {
-        "name": "Blockscout",
-        "url": "https://base-sepolia.blockscout.com",
-        "apiUrl": "https://base-sepolia.blockscout.com/api"
-      }
-    }
-  },
-  "bearNetworkChainMainnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "BrnkScan",
-        "url": "https://brnkscan.bearnetwork.net",
-        "apiUrl": "https://brnkscan.bearnetwork.net/api"
-      }
-    }
-  },
-  "bearNetworkChainTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "BrnkTestScan",
-        "url": "https://brnktest-scan.bearnetwork.net",
-        "apiUrl": "https://brnktest-scan.bearnetwork.net/api"
-      }
-    }
-  },
-  "bitTorrent": {
-    "blockExplorers": {
-      "etherscan": {
-        "name": "Bttcscan",
-        "url": "https://bttcscan.com",
-        "apiUrl": "https://api.bttcscan.com/api"
-      },
-      "default": {
-        "name": "Bttcscan",
-        "url": "https://bttcscan.com",
-        "apiUrl": "https://api.bttcscan.com/api"
-      }
-    }
-  },
-  "bitTorrentTestnet": {
-    "blockExplorers": {
-      "etherscan": {
-        "name": "Bttcscan",
-        "url": "https://testnet.bttcscan.com",
-        "apiUrl": "https://testnet.bttcscan.com/api"
-      },
-      "default": {
-        "name": "Bttcscan",
-        "url": "https://testnet.bttcscan.com",
-        "apiUrl": "https://testnet.bttcscan.com/api"
-      }
-    }
-  },
-  "boba": {
-    "blockExplorers": {
-      "default": {
-        "name": "BOBAScan",
-        "url": "https://bobascan.com"
-      }
-    }
-  },
-  "bronos": {
-    "blockExplorers": {
-      "default": {
-        "name": "BronoScan",
-        "url": "https://broscan.bronos.org"
-      }
-    }
-  },
-  "bronosTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "BronoScan",
-        "url": "https://tbroscan.bronos.org"
-      }
-    }
-  },
-  "bsc": {
-    "blockExplorers": {
-      "default": {
-        "name": "BscScan",
-        "url": "https://bscscan.com",
-        "apiUrl": "https://api.bscscan.com/api"
-      }
-    }
-  },
-  "bscTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "BscScan",
-        "url": "https://testnet.bscscan.com",
-        "apiUrl": "https://testnet.bscscan.com/api"
-      }
-    }
-  },
-  "bxn": {
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://explorer.blackfort.network",
-        "apiUrl": "https://explorer.blackfort.network/api"
-      }
-    }
-  },
-  "bxnTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://testnet-explorer.blackfort.network",
-        "apiUrl": "https://testnet-explorer.blackfort.network/api"
-      }
-    }
-  },
-  "canto": {
-    "blockExplorers": {
-      "default": {
-        "name": "Tuber.Build (Blockscout)",
-        "url": "https://tuber.build"
-      }
-    }
-  },
-  "celo": {
-    "blockExplorers": {
-      "default": {
-        "name": "Celo Explorer",
-        "url": "https://explorer.celo.org/mainnet",
-        "apiUrl": "https://explorer.celo.org/api"
-      }
-    }
-  },
-  "celoAlfajores": {
-    "blockExplorers": {
-      "default": {
-        "name": "Celo Explorer",
-        "url": "https://explorer.celo.org/alfajores",
-        "apiUrl": "https://explorer.celo.org/api"
-      }
-    }
-  },
-  "chiliz": {
-    "blockExplorers": {
-      "default": {
-        "name": "Chiliz Explorer",
-        "url": "https://scan.chiliz.com",
-        "apiUrl": "https://scan.chiliz.com/api"
-      }
-    }
-  },
-  "classic": {
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://blockscout.com/etc/mainnet"
-      }
-    }
-  },
-  "confluxESpace": {
-    "blockExplorers": {
-      "default": {
-        "name": "ConfluxScan",
-        "url": "https://evm.confluxscan.io"
-      }
-    }
-  },
-  "confluxESpaceTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "ConfluxScan",
-        "url": "https://evmtestnet.confluxscan.io"
-      }
-    }
-  },
-  "coreDao": {
-    "blockExplorers": {
-      "default": {
-        "name": "CoreDao",
-        "url": "https://scan.coredao.org"
-      }
-    }
-  },
-  "cronos": {
-    "blockExplorers": {
-      "default": {
-        "name": "Cronoscan",
-        "url": "https://cronoscan.com",
-        "apiUrl": "https://api.cronoscan.com/api"
-      }
-    }
-  },
-  "cronosTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Cronos Explorer",
-        "url": "https://cronos.org/explorer/testnet3"
-      }
-    }
-  },
-  "crossbell": {
-    "blockExplorers": {
-      "default": {
-        "name": "CrossScan",
-        "url": "https://scan.crossbell.io",
-        "apiUrl": "https://scan.crossbell.io/api"
-      }
-    }
-  },
-  "defichainEvm": {
-    "blockExplorers": {
-      "default": {
-        "name": "DeFiScan",
-        "url": "https://meta.defiscan.live"
-      },
-      "blockscout": {
-        "name": "Blockscout",
-        "url": "https://blockscout.mainnet.ocean.jellyfishsdk.com",
-        "apiUrl": "https://blockscout.mainnet.ocean.jellyfishsdk.com/api"
-      }
-    }
-  },
-  "defichainEvmTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "DeFiScan",
-        "url": "https://meta.defiscan.live/?network=TestNet"
-      },
-      "blockscout": {
-        "name": "Blockscout",
-        "url": "https://blockscout.testnet.ocean.jellyfishsdk.com",
-        "apiUrl": "https://blockscout.testnet.ocean.jellyfishsdk.com/api"
-      }
-    }
-  },
-  "dfk": {
-    "blockExplorers": {
-      "default": {
-        "name": "DFKSubnetScan",
-        "url": "https://subnets.avax.network/defi-kingdoms"
-      }
-    }
-  },
-  "dogechain": {
-    "blockExplorers": {
-      "default": {
-        "name": "DogeChainExplorer",
-        "url": "https://explorer.dogechain.dog",
-        "apiUrl": "https://explorer.dogechain.dog/api"
-      }
-    }
-  },
-  "edgeware": {
-    "blockExplorers": {
-      "default": {
-        "name": "Edgscan by Bharathcoorg",
-        "url": "https://edgscan.live",
-        "apiUrl": "https://edgscan.live/api"
-      }
-    }
-  },
-  "edgewareTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Edgscan by Bharathcoorg",
-        "url": "https://testnet.edgscan.live",
-        "apiUrl": "https://testnet.edgscan.live/api"
-      }
-    }
-  },
-  "ekta": {
-    "blockExplorers": {
-      "default": {
-        "name": "Ektascan",
-        "url": "https://ektascan.io",
-        "apiUrl": "https://ektascan.io/api"
-      }
-    }
-  },
-  "ektaTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Test Ektascan",
-        "url": "https://test.ektascan.io",
-        "apiUrl": "https://test.ektascan.io/api"
-      }
-    }
-  },
-  "eos": {
-    "blockExplorers": {
-      "default": {
-        "name": "EOS EVM Explorer",
-        "url": "https://explorer.evm.eosnetwork.com",
-        "apiUrl": "https://explorer.evm.eosnetwork.com/api"
-      }
-    }
-  },
-  "eosTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "EOS EVM Testnet Explorer",
-        "url": "https://explorer.testnet.evm.eosnetwork.com",
-        "apiUrl": "https://explorer.testnet.evm.eosnetwork.com/api"
-      }
-    }
-  },
-  "evmos": {
-    "blockExplorers": {
-      "default": {
-        "name": "Evmos Block Explorer",
-        "url": "https://escan.live"
-      }
-    }
-  },
-  "evmosTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Evmos Testnet Block Explorer",
-        "url": "https://evm.evmos.dev/"
-      }
-    }
-  },
-  "fantom": {
-    "blockExplorers": {
-      "default": {
-        "name": "FTMScan",
-        "url": "https://ftmscan.com",
-        "apiUrl": "https://api.ftmscan.com/api"
-      }
-    }
-  },
-  "fantomSonicTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Fantom Sonic Open Testnet Explorer",
-        "url": "https://public-sonic.fantom.network"
-      }
-    }
-  },
-  "fantomTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "FTMScan",
-        "url": "https://testnet.ftmscan.com",
-        "apiUrl": "https://testnet.ftmscan.com/api"
-      }
-    }
-  },
-  "fibo": {
-    "blockExplorers": {
-      "default": {
-        "name": "FiboScan",
-        "url": "https://scan.fibochain.org"
-      }
-    }
-  },
-  "filecoin": {
-    "blockExplorers": {
-      "default": {
-        "name": "Filfox",
-        "url": "https://filfox.info/en"
-      }
-    }
-  },
-  "filecoinCalibration": {
-    "blockExplorers": {
-      "default": {
-        "name": "Filscan",
-        "url": "https://calibration.filscan.io"
-      }
-    }
-  },
-  "filecoinHyperspace": {
-    "blockExplorers": {
-      "default": {
-        "name": "Filfox",
-        "url": "https://hyperspace.filfox.info/en"
-      }
-    }
-  },
-  "flare": {
-    "blockExplorers": {
-      "default": {
-        "name": "Flare Explorer",
-        "url": "https://flare-explorer.flare.network",
-        "apiUrl": "https://flare-explorer.flare.network/api"
-      }
-    }
-  },
-  "flareTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Coston2 Explorer",
-        "url": "https://coston2-explorer.flare.network",
-        "apiUrl": "https://coston2-explorer.flare.network/api"
-      }
-    }
-  },
-  "fuse": {
-    "blockExplorers": {
-      "default": {
-        "name": "Fuse Explorer",
-        "url": "https://explorer.fuse.io",
-        "apiUrl": "https://explorer.fuse.io/api"
-      }
-    }
-  },
-  "fuseSparknet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Sparkent Explorer",
-        "url": "https://explorer.fusespark.io",
-        "apiUrl": "https://explorer.fusespark.io/api"
-      }
-    }
-  },
-  "gnosis": {
-    "blockExplorers": {
-      "default": {
-        "name": "Gnosis Chain Explorer",
-        "url": "https://blockscout.com/xdai/mainnet"
-      }
-    }
-  },
-  "gnosisChiado": {
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://blockscout.chiadochain.net",
-        "apiUrl": "https://blockscout.chiadochain.net/api"
-      }
-    }
-  },
-  "gobi": {
-    "blockExplorers": {
-      "default": {
-        "name": "Gobi Explorer",
-        "url": "https://gobi-explorer.horizen.io"
-      }
-    }
-  },
-  "goerli": {
-    "blockExplorers": {
-      "default": {
-        "name": "Etherscan",
-        "url": "https://goerli.etherscan.io",
-        "apiUrl": "https://api-goerli.etherscan.io/api"
-      }
-    }
-  },
-  "haqqMainnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "HAQQ Explorer",
-        "url": "https://explorer.haqq.network",
-        "apiUrl": "https://explorer.haqq.network/api"
-      }
-    }
-  },
-  "haqqTestedge2": {
-    "blockExplorers": {
-      "default": {
-        "name": "HAQQ Explorer",
-        "url": "https://explorer.testedge2.haqq.network",
-        "apiUrl": "https://explorer.testedge2.haqq.network/api"
-      }
-    }
-  },
-  "harmonyOne": {
-    "blockExplorers": {
-      "default": {
-        "name": "Harmony Explorer",
-        "url": "https://explorer.harmony.one"
-      }
-    }
-  },
-  "iotex": {
-    "blockExplorers": {
-      "default": {
-        "name": "IoTeXScan",
-        "url": "https://iotexscan.io"
-      }
-    }
-  },
-  "iotexTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "IoTeXScan",
-        "url": "https://testnet.iotexscan.io"
-      }
-    }
-  },
-  "jbc": {
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://exp-l1.jibchain.net",
-        "apiUrl": "https://exp-l1.jibchain.net/api"
-      }
-    }
-  },
-  "karura": {
-    "blockExplorers": {
-      "default": {
-        "name": "Karura Blockscout",
-        "url": "https://blockscout.karura.network",
-        "apiUrl": "https://blockscout.karura.network/api"
-      }
-    }
-  },
-  "kava": {
-    "blockExplorers": {
-      "default": {
-        "name": "Kava EVM Explorer",
-        "url": "https://kavascan.com",
-        "apiUrl": "https://kavascan.com/api"
-      }
-    }
-  },
-  "kavaTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Kava EVM Testnet Explorer",
-        "url": "https://testnet.kavascan.com/",
-        "apiUrl": "https://testnet.kavascan.com/api"
-      }
-    }
-  },
-  "klaytn": {
-    "blockExplorers": {
-      "default": {
-        "name": "KlaytnScope",
-        "url": "https://scope.klaytn.com"
-      }
-    }
-  },
-  "klaytnBaobab": {
-    "blockExplorers": {
-      "etherscan": {
-        "name": "KlaytnScope",
-        "url": "https://baobab.klaytnscope.com"
-      },
-      "default": {
-        "name": "KlaytnScope",
-        "url": "https://baobab.klaytnscope.com"
-      }
-    }
-  },
-  "kroma": {
-    "blockExplorers": {
-      "default": {
-        "name": "Kroma Explorer",
-        "url": "https://blockscout.kroma.network",
-        "apiUrl": "https://blockscout.kroma.network/api"
-      }
-    }
-  },
-  "kromaSepolia": {
-    "blockExplorers": {
-      "default": {
-        "name": "Kroma Sepolia Explorer",
-        "url": "https://blockscout.sepolia.kroma.network",
-        "apiUrl": "https://blockscout.sepolia.kroma.network/api"
-      }
-    }
-  },
-  "linea": {
-    "blockExplorers": {
-      "default": {
-        "name": "Etherscan",
-        "url": "https://lineascan.build",
-        "apiUrl": "https://api.lineascan.build/api"
-      }
-    }
-  },
-  "lineaTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Etherscan",
-        "url": "https://goerli.lineascan.build",
-        "apiUrl": "https://goerli.lineascan.build/api"
-      }
-    }
-  },
-  "lukso": {
-    "blockExplorers": {
-      "default": {
-        "name": "LUKSO Mainnet Explorer",
-        "url": "https://explorer.execution.mainnet.lukso.network",
-        "apiUrl": "https://api.explorer.execution.mainnet.lukso.network/api"
-      }
-    }
-  },
-  "mainnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Etherscan",
-        "url": "https://etherscan.io",
-        "apiUrl": "https://api.etherscan.io/api"
-      }
-    }
-  },
-  "mandala": {
-    "blockExplorers": {
-      "default": {
-        "name": "Mandala Blockscout",
-        "url": "https://blockscout.mandala.aca-staging.network",
-        "apiUrl": "https://blockscout.mandala.aca-staging.network/api"
-      }
-    }
-  },
-  "manta": {
-    "blockExplorers": {
-      "etherscan": {
-        "name": "Manta Explorer",
-        "url": "https://pacific-explorer.manta.network",
-        "apiUrl": "https://pacific-explorer.manta.network/api"
-      },
-      "default": {
-        "name": "Manta Explorer",
-        "url": "https://pacific-explorer.manta.network",
-        "apiUrl": "https://pacific-explorer.manta.network/api"
-      }
-    }
-  },
-  "mantaTestnet": {
-    "blockExplorers": {
-      "etherscan": {
-        "name": "Manta Testnet Explorer",
-        "url": "https://pacific-explorer.testnet.manta.network",
-        "apiUrl": "https://pacific-explorer.testnet.manta.network/api"
-      },
-      "default": {
-        "name": "Manta Testnet Explorer",
-        "url": "https://pacific-explorer.testnet.manta.network",
-        "apiUrl": "https://pacific-explorer.testnet.manta.network/api"
-      }
-    }
-  },
-  "mantle": {
-    "blockExplorers": {
-      "default": {
-        "name": "Mantle Explorer",
-        "url": "https://explorer.mantle.xyz",
-        "apiUrl": "https://explorer.mantle.xyz/api"
-      }
-    }
-  },
-  "mantleTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Mantle Testnet Explorer",
-        "url": "https://explorer.testnet.mantle.xyz",
-        "apiUrl": "https://explorer.testnet.mantle.xyz/api"
-      }
-    }
-  },
-  "meter": {
-    "blockExplorers": {
-      "default": {
-        "name": "MeterScan",
-        "url": "https://scan.meter.io"
-      }
-    }
-  },
-  "meterTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "MeterTestnetScan",
-        "url": "https://scan-warringstakes.meter.io"
-      }
-    }
-  },
-  "metis": {
-    "blockExplorers": {
-      "default": {
-        "name": "Andromeda Explorer",
-        "url": "https://andromeda-explorer.metis.io",
-        "apiUrl": "https://andromeda-explorer.metis.io/api"
-      }
-    }
-  },
-  "metisGoerli": {
-    "blockExplorers": {
-      "default": {
-        "name": "Metis Goerli Explorer",
-        "url": "https://goerli.explorer.metisdevops.link",
-        "apiUrl": "https://goerli.explorer.metisdevops.link/api"
-      }
-    }
-  },
-  "mev": {
-    "blockExplorers": {
-      "default": {
-        "name": "Explorer",
-        "url": "https://www.meversescan.io"
-      }
-    }
-  },
-  "mevTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Explorer",
-        "url": "https://testnet.meversescan.io/"
-      }
-    }
-  },
-  "modeTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://sepolia.explorer.mode.network",
-        "apiUrl": "https://sepolia.explorer.mode.network/api"
-      }
-    }
-  },
-  "moonbaseAlpha": {
-    "blockExplorers": {
-      "default": {
-        "name": "Moonscan",
-        "url": "https://moonbase.moonscan.io",
-        "apiUrl": "https://moonbase.moonscan.io/api"
-      }
-    }
-  },
-  "moonbeam": {
-    "blockExplorers": {
-      "default": {
-        "name": "Moonscan",
-        "url": "https://moonscan.io",
-        "apiUrl": "https://api-moonbeam.moonscan.io/api"
-      }
-    }
-  },
-  "moonriver": {
-    "blockExplorers": {
-      "default": {
-        "name": "Moonscan",
-        "url": "https://moonriver.moonscan.io",
-        "apiUrl": "https://api-moonriver.moonscan.io/api"
-      }
-    }
-  },
-  "neonDevnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Neonscan",
-        "url": "https://devnet.neonscan.org"
-      }
-    }
-  },
-  "neonMainnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Neonscan",
-        "url": "https://neonscan.org"
-      }
-    }
-  },
-  "nexi": {
-    "blockExplorers": {
-      "default": {
-        "name": "NexiScan",
-        "url": "https://www.nexiscan.com",
-        "apiUrl": "https://www.nexiscan.com/api"
-      }
-    }
-  },
-  "nexilix": {
-    "blockExplorers": {
-      "default": {
-        "name": "NexilixScan",
-        "url": "https://scan.nexilix.com"
-      }
-    }
-  },
-  "oasisTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Ftnscan",
-        "url": "https://oasis.ftnscan.com",
-        "apiUrl": "https://oasis.ftnscan.com/api"
-      }
-    }
-  },
-  "oasys": {
-    "blockExplorers": {
-      "default": {
-        "name": "OasysScan",
-        "url": "https://scan.oasys.games",
-        "apiUrl": "https://scan.oasys.games/api"
-      }
-    }
-  },
-  "okc": {
-    "blockExplorers": {
-      "default": {
-        "name": "oklink",
-        "url": "https://www.oklink.com/okc"
-      }
-    }
-  },
-  "opBNB": {
-    "blockExplorers": {
-      "default": {
-        "name": "opbnbscan",
-        "url": "https://mainnet.opbnbscan.com"
-      }
-    }
-  },
-  "opBNBTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "opbnbscan",
-        "url": "https://testnet.opbnbscan.com"
-      }
-    }
-  },
-  "optimism": {
-    "blockExplorers": {
-      "default": {
-        "name": "Optimism Explorer",
-        "url": "https://explorer.optimism.io"
-      }
-    }
-  },
-  "optimismGoerli": {
-    "blockExplorers": {
-      "default": {
-        "name": "Etherscan",
-        "url": "https://goerli-optimism.etherscan.io",
-        "apiUrl": "https://goerli-optimism.etherscan.io/api"
-      }
-    }
-  },
-  "optimismSepolia": {
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://optimism-sepolia.blockscout.com",
-        "apiUrl": "https://optimism-sepolia.blockscout.com/api"
-      }
-    }
-  },
-  "pgn": {
-    "blockExplorers": {
-      "default": {
-        "name": "PGN Explorer",
-        "url": "https://explorer.publicgoods.network",
-        "apiUrl": "https://explorer.publicgoods.network/api"
-      },
-      "blocksout": {
-        "name": "PGN Explorer",
-        "url": "https://explorer.publicgoods.network",
-        "apiUrl": "https://explorer.publicgoods.network/api"
-      }
-    }
-  },
-  "pgnTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "PGN Testnet Explorer",
-        "url": "https://explorer.sepolia.publicgoods.network",
-        "apiUrl": "https://explorer.sepolia.publicgoods.network/api"
-      },
-      "blocksout": {
-        "name": "PGN Testnet Explorer",
-        "url": "https://explorer.sepolia.publicgoods.network",
-        "apiUrl": "https://explorer.sepolia.publicgoods.network/api"
-      }
-    }
-  },
-  "plinga": {
-    "blockExplorers": {
-      "default": {
-        "name": "Plgscan",
-        "url": "https://www.plgscan.com"
-      }
-    }
-  },
-  "polygon": {
-    "blockExplorers": {
-      "default": {
-        "name": "PolygonScan",
-        "url": "https://polygonscan.com",
-        "apiUrl": "https://api.polygonscan.com/api"
-      }
-    }
-  },
-  "polygonMumbai": {
-    "blockExplorers": {
-      "default": {
-        "name": "PolygonScan",
-        "url": "https://mumbai.polygonscan.com",
-        "apiUrl": "https://mumbai.polygonscan.com/api"
-      }
-    }
-  },
-  "polygonZkEvm": {
-    "blockExplorers": {
-      "default": {
-        "name": "PolygonScan",
-        "url": "https://zkevm.polygonscan.com",
-        "apiUrl": "https://api-zkevm.polygonscan.com/api"
-      }
-    }
-  },
-  "polygonZkEvmTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "PolygonScan",
-        "url": "https://testnet-zkevm.polygonscan.com",
-        "apiUrl": "https://testnet-zkevm.polygonscan.com/api"
-      }
-    }
-  },
-  "pulsechain": {
-    "blockExplorers": {
-      "default": {
-        "name": "PulseScan",
-        "url": "https://scan.pulsechain.com",
-        "apiUrl": "https://api.scan.pulsechain.com/api"
-      }
-    }
-  },
-  "pulsechainV4": {
-    "blockExplorers": {
-      "default": {
-        "name": "PulseScan",
-        "url": "https://scan.v4.testnet.pulsechain.com",
-        "apiUrl": "https://scan.v4.testnet.pulsechain.com/api"
-      }
-    }
-  },
-  "qMainnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Q Mainnet Explorer",
-        "url": "https://explorer.q.org",
-        "apiUrl": "https://explorer.q.org/api"
-      }
-    }
-  },
-  "qTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Q Testnet Explorer",
-        "url": "https://explorer.qtestnet.org",
-        "apiUrl": "https://explorer.qtestnet.org/api"
-      }
-    }
-  },
-  "rollux": {
-    "blockExplorers": {
-      "default": {
-        "name": "RolluxExplorer",
-        "url": "https://explorer.rollux.com",
-        "apiUrl": "https://explorer.rollux.com/api"
-      }
-    }
-  },
-  "rolluxTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "RolluxTestnetExplorer",
-        "url": "https://rollux.tanenbaum.io",
-        "apiUrl": "https://rollux.tanenbaum.io/api"
-      }
-    }
-  },
-  "ronin": {
-    "blockExplorers": {
-      "default": {
-        "name": "Ronin Explorer",
-        "url": "https://app.roninchain.com"
-      }
-    }
-  },
-  "rootstock": {
-    "blockExplorers": {
-      "blockscout": {
-        "name": "Blockscout",
-        "url": "https://rootstock.blockscout.com",
-        "apiUrl": "https://rootstock.blockscout.com/api"
-      },
-      "default": {
-        "name": "RSK Explorer",
-        "url": "https://explorer.rsk.co"
-      }
-    }
-  },
-  "saigon": {
-    "blockExplorers": {
-      "default": {
-        "name": "Saigon Explorer",
-        "url": "https://saigon-explorer.roninchain.com"
-      }
-    }
-  },
-  "sapphire": {
-    "blockExplorers": {
-      "default": {
-        "name": "Oasis Sapphire Explorer",
-        "url": "https://explorer.sapphire.oasis.io",
-        "apiUrl": "https://explorer.sapphire.oasis.io/api"
-      }
-    }
-  },
-  "sapphireTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Oasis Sapphire Testnet Explorer",
-        "url": "https://testnet.explorer.sapphire.oasis.dev",
-        "apiUrl": "https://testnet.explorer.sapphire.oasis.dev/api"
-      }
-    }
-  },
-  "scroll": {
-    "blockExplorers": {
-      "default": {
-        "name": "Scrollscan",
-        "url": "https://scrollscan.com",
-        "apiUrl": "https://api.scrollscan.com/api"
-      }
-    }
-  },
-  "scrollSepolia": {
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://sepolia-blockscout.scroll.io",
-        "apiUrl": "https://sepolia-blockscout.scroll.io/api"
-      }
-    }
-  },
-  "scrollTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://blockscout.scroll.io",
-        "apiUrl": "https://blockscout.scroll.io/api"
-      }
-    }
-  },
-  "sepolia": {
-    "blockExplorers": {
-      "default": {
-        "name": "Etherscan",
-        "url": "https://sepolia.etherscan.io",
-        "apiUrl": "https://api-sepolia.etherscan.io/api"
-      }
-    }
-  },
-  "shardeumSphinx": {
-    "blockExplorers": {
-      "default": {
-        "name": "Shardeum Explorer",
-        "url": "https://explorer-sphinx.shardeum.org"
-      }
-    }
-  },
-  "shibarium": {
-    "blockExplorers": {
-      "etherscan": {
-        "name": "Blockscout",
-        "url": "https://shibariumscan.io"
-      },
-      "default": {
-        "name": "Blockscout",
-        "url": "https://shibariumscan.io"
-      }
-    }
-  },
-  "shimmer": {
-    "blockExplorers": {
-      "default": {
-        "name": "Shimmer Network Explorer",
-        "url": "https://explorer.evm.shimmer.network",
-        "apiUrl": "https://explorer.evm.shimmer.network/api"
-      }
-    }
-  },
-  "shimmerTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Shimmer Network Explorer",
-        "url": "https://explorer.evm.testnet.shimmer.network",
-        "apiUrl": "https://explorer.evm.testnet.shimmer.network/api"
-      }
-    }
-  },
-  "skaleBlockBrawlers": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://frayed-decent-antares.explorer.mainnet.skalenodes.com",
-        "apiUrl": "https://frayed-decent-antares.explorer.mainnet.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleCalypso": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com",
-        "apiUrl": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleCalypsoTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://staging-utter-unripe-menkar.explorer.staging-v3.skalenodes.com",
-        "apiUrl": "https://staging-utter-unripe-menkar.explorer.staging-v3.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleChaosTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://staging-fast-active-bellatrix.explorer.staging-v3.skalenodes.com",
-        "apiUrl": "https://staging-fast-active-bellatrix.explorer.staging-v3.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleCryptoBlades": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://affectionate-immediate-pollux.explorer.mainnet.skalenodes.com",
-        "apiUrl": "https://affectionate-immediate-pollux.explorer.mainnet.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleCryptoColosseum": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://haunting-devoted-deneb.explorer.mainnet.skalenodes.com",
-        "apiUrl": "https://haunting-devoted-deneb.explorer.mainnet.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleEuropa": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://elated-tan-skat.explorer.mainnet.skalenodes.com",
-        "apiUrl": "https://elated-tan-skat.explorer.mainnet.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleEuropaTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://staging-legal-crazy-castor.explorer.staging-v3.skalenodes.com",
-        "apiUrl": "https://staging-legal-crazy-castor.explorer.staging-v3.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleExorde": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://light-vast-diphda.explorer.mainnet.skalenodes.com",
-        "apiUrl": "https://light-vast-diphda.explorer.mainnet.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleHumanProtocol": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://wan-red-ain.explorer.mainnet.skalenodes.com",
-        "apiUrl": "https://wan-red-ain.explorer.mainnet.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleNebula": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com",
-        "apiUrl": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleNebulaTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://staging-faint-slimy-achird.explorer.staging-v3.skalenodes.com",
-        "apiUrl": "https://staging-faint-slimy-achird.explorer.staging-v3.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleRazor": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://turbulent-unique-scheat.explorer.mainnet.skalenodes.com",
-        "apiUrl": "https://turbulent-unique-scheat.explorer.mainnet.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleTitan": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://parallel-stormy-spica.explorer.mainnet.skalenodes.com",
-        "apiUrl": "https://parallel-stormy-spica.explorer.mainnet.skalenodes.com/api"
-      }
-    }
-  },
-  "skaleTitanTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "SKALE Explorer",
-        "url": "https://staging-aware-chief-gianfar.explorer.staging-v3.skalenodes.com",
-        "apiUrl": "https://staging-aware-chief-gianfar.explorer.staging-v3.skalenodes.com/api"
-      }
-    }
-  },
-  "songbird": {
-    "blockExplorers": {
-      "default": {
-        "name": "Songbird Explorer",
-        "url": "https://songbird-explorer.flare.network",
-        "apiUrl": "https://songbird-explorer.flare.network/api"
-      }
-    }
-  },
-  "songbirdTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Coston Explorer",
-        "url": "https://coston-explorer.flare.network",
-        "apiUrl": "https://coston-explorer.flare.network/api"
-      }
-    }
-  },
-  "spicy": {
-    "blockExplorers": {
-      "default": {
-        "name": "Chiliz Explorer",
-        "url": "http://spicy-explorer.chiliz.com",
-        "apiUrl": "http://spicy-explorer.chiliz.com/api"
-      }
-    }
-  },
-  "syscoin": {
-    "blockExplorers": {
-      "default": {
-        "name": "SyscoinExplorer",
-        "url": "https://explorer.syscoin.org",
-        "apiUrl": "https://explorer.syscoin.org/api"
-      }
-    }
-  },
-  "syscoinTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "SyscoinTestnetExplorer",
-        "url": "https://tanenbaum.io"
-      }
-    }
-  },
-  "taikoJolnir": {
-    "blockExplorers": {
-      "default": {
-        "name": "blockscout",
-        "url": "https://explorer.jolnir.taiko.xyz"
-      }
-    }
-  },
-  "taikoKatla": {
-    "blockExplorers": {
-      "default": {
-        "name": "blockscout",
-        "url": "https://explorer.katla.taiko.xyz"
-      }
-    }
-  },
-  "taikoTestnetSepolia": {
-    "blockExplorers": {
-      "default": {
-        "name": "blockscout",
-        "url": "https://explorer.test.taiko.xyz"
-      }
-    }
-  },
-  "taraxa": {
-    "blockExplorers": {
-      "default": {
-        "name": "Taraxa Explorer",
-        "url": "https://explorer.mainnet.taraxa.io"
-      }
-    }
-  },
-  "taraxaTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Taraxa Explorer",
-        "url": "https://explorer.testnet.taraxa.io"
-      }
-    }
-  },
-  "telos": {
-    "blockExplorers": {
-      "default": {
-        "name": "Teloscan",
-        "url": "https://www.teloscan.io/"
-      }
-    }
-  },
-  "telosTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Teloscan (testnet)",
-        "url": "https://testnet.teloscan.io/"
-      }
-    }
-  },
-  "tenet": {
-    "blockExplorers": {
-      "default": {
-        "name": "TenetScan Mainnet",
-        "url": "https://tenetscan.io",
-        "apiUrl": "https://tenetscan.io/api"
-      }
-    }
-  },
-  "thunderTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "5ireChain Explorer",
-        "url": "https://explorer.5ire.network"
-      }
-    }
-  },
-  "vechain": {
-    "blockExplorers": {
-      "default": {
-        "name": "Vechain Explorer",
-        "url": "https://explore.vechain.org"
-      },
-      "vechainStats": {
-        "name": "Vechain Stats",
-        "url": "https://vechainstats.com"
-      }
-    }
-  },
-  "wanchain": {
-    "blockExplorers": {
-      "default": {
-        "name": "WanScan",
-        "url": "https://wanscan.org"
-      }
-    }
-  },
-  "wanchainTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "WanScanTest",
-        "url": "https://wanscan.org"
-      }
-    }
-  },
-  "wemix": {
-    "blockExplorers": {
-      "etherscan": {
-        "name": "wemixExplorer",
-        "url": "https://explorer.wemix.com"
-      },
-      "default": {
-        "name": "wemixExplorer",
-        "url": "https://explorer.wemix.com"
-      }
-    }
-  },
-  "wemixTestnet": {
-    "blockExplorers": {
-      "etherscan": {
-        "name": "wemixExplorer",
-        "url": "https://testnet.wemixscan.com",
-        "apiUrl": "https://testnet.wemixscan.com/api"
-      },
-      "default": {
-        "name": "wemixExplorer",
-        "url": "https://testnet.wemixscan.com",
-        "apiUrl": "https://testnet.wemixscan.com/api"
-      }
-    }
-  },
-  "xdc": {
-    "blockExplorers": {
-      "xinfin": {
-        "name": "XinFin",
-        "url": "https://explorer.xinfin.network"
-      },
-      "default": {
-        "name": "Blocksscan",
-        "url": "https://xdc.blocksscan.io"
-      }
-    }
-  },
-  "xdcTestnet": {
-    "blockExplorers": {
-      "xinfin": {
-        "name": "XinFin",
-        "url": "https://explorer.apothem.network"
-      },
-      "default": {
-        "name": "Blocksscan",
-        "url": "https://apothem.blocksscan.io"
-      }
-    }
-  },
-  "zetachainAthensTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "ZetaScan",
-        "url": "https://athens3.explorer.zetachain.com"
-      }
-    }
-  },
-  "zhejiang": {
-    "blockExplorers": {
-      "default": {
-        "name": "Beaconchain",
-        "url": "https://zhejiang.beaconcha.in"
-      }
-    }
-  },
-  "zilliqa": {
-    "blockExplorers": {
-      "default": {
-        "name": "Ethernal",
-        "url": "https://evmx.zilliqa.com"
-      }
-    }
-  },
-  "zilliqaTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Ethernal",
-        "url": "https://evmx.testnet.zilliqa.com"
-      }
-    }
-  },
-  "zkFair": {
-    "blockExplorers": {
-      "default": {
-        "name": "zkFair Explorer",
-        "url": "https://scan.zkfair.io",
-        "apiUrl": "https://scan.zkfair.io/api"
-      }
-    }
-  },
-  "zkFairTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "zkFair Explorer",
-        "url": "https://testnet-scan.zkfair.io"
-      }
-    }
-  },
-  "zkSync": {
-    "blockExplorers": {
-      "default": {
-        "name": "zkExplorer",
-        "url": "https://explorer.zksync.io"
-      }
-    }
-  },
-  "zkSyncSepoliaTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "zkExplorer",
-        "url": "https://sepolia.explorer.zksync.io/"
-      }
-    }
-  },
-  "zkSyncTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "zkExplorer",
-        "url": "https://goerli.explorer.zksync.io"
-      }
-    }
-  },
-  "zora": {
-    "blockExplorers": {
-      "default": {
-        "name": "Explorer",
-        "url": "https://explorer.zora.energy",
-        "apiUrl": "https://explorer.zora.energy/api"
-      }
-    }
-  },
-  "zoraSepolia": {
-    "blockExplorers": {
-      "default": {
-        "name": "Zora Sepolia Explorer",
-        "url": "https://sepolia.explorer.zora.energy/",
-        "apiUrl": "https://sepolia.explorer.zora.energy/api"
-      }
-    }
-  },
-  "zoraTestnet": {
-    "blockExplorers": {
-      "default": {
-        "name": "Explorer",
-        "url": "https://testnet.explorer.zora.energy",
-        "apiUrl": "https://testnet.explorer.zora.energy/api"
-      }
-    }
-  }
+	"acala": {
+		"blockExplorers": {
+			"default": {
+				"name": "Acala Blockscout",
+				"url": "https://blockscout.acala.network",
+				"apiUrl": "https://blockscout.acala.network/api"
+			}
+		}
+	},
+	"arbitrum": {
+		"blockExplorers": {
+			"default": {
+				"name": "Arbiscan",
+				"url": "https://arbiscan.io",
+				"apiUrl": "https://api.arbiscan.io/api"
+			}
+		}
+	},
+	"arbitrumGoerli": {
+		"blockExplorers": {
+			"etherscan": {
+				"name": "Arbiscan",
+				"url": "https://goerli.arbiscan.io"
+			},
+			"default": {
+				"name": "Arbiscan",
+				"url": "https://goerli.arbiscan.io"
+			}
+		}
+	},
+	"arbitrumNova": {
+		"blockExplorers": {
+			"default": {
+				"name": "Arbiscan",
+				"url": "https://nova.arbiscan.io",
+				"apiUrl": "https://api-nova.arbiscan.io/api"
+			}
+		}
+	},
+	"arbitrumSepolia": {
+		"blockExplorers": {
+			"etherscan": {
+				"name": "Arbiscan",
+				"url": "https://sepolia.arbiscan.io",
+				"apiUrl": "https://sepolia.arbiscan.io/api"
+			},
+			"default": {
+				"name": "Arbiscan",
+				"url": "https://sepolia.arbiscan.io",
+				"apiUrl": "https://sepolia.arbiscan.io/api"
+			}
+		}
+	},
+	"astar": {
+		"blockExplorers": {
+			"default": {
+				"name": "Astar Subscan",
+				"url": "https://astar.subscan.io"
+			}
+		}
+	},
+	"astarZkatana": {
+		"blockExplorers": {
+			"blockscout": {
+				"name": "Blockscout zKatana chain explorer",
+				"url": "https://zkatana.blockscout.com",
+				"apiUrl": "https://zkatana.blockscout.com/api"
+			},
+			"default": {
+				"name": "zKatana Explorer",
+				"url": "https://zkatana.explorer.startale.com"
+			}
+		}
+	},
+	"aurora": {
+		"blockExplorers": {
+			"default": {
+				"name": "Aurorascan",
+				"url": "https://aurorascan.dev",
+				"apiUrl": "https://aurorascan.dev/api"
+			}
+		}
+	},
+	"auroraTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Aurorascan",
+				"url": "https://testnet.aurorascan.dev",
+				"apiUrl": "https://testnet.aurorascan.dev/api"
+			}
+		}
+	},
+	"avalanche": {
+		"blockExplorers": {
+			"default": {
+				"name": "SnowTrace",
+				"url": "https://snowtrace.io",
+				"apiUrl": "https://api.snowtrace.io/api"
+			}
+		}
+	},
+	"avalancheFuji": {
+		"blockExplorers": {
+			"default": {
+				"name": "SnowTrace",
+				"url": "https://testnet.snowtrace.io",
+				"apiUrl": "https://api-testnet.snowtrace.io/api"
+			}
+		}
+	},
+	"bahamut": {
+		"blockExplorers": {
+			"default": {
+				"name": "Ftnscan",
+				"url": "https://www.ftnscan.com",
+				"apiUrl": "https://www.ftnscan.com/api"
+			}
+		}
+	},
+	"base": {
+		"blockExplorers": {
+			"default": {
+				"name": "Basescan",
+				"url": "https://basescan.org",
+				"apiUrl": "https://api.basescan.org/api"
+			}
+		}
+	},
+	"baseGoerli": {
+		"blockExplorers": {
+			"default": {
+				"name": "Basescan",
+				"url": "https://goerli.basescan.org",
+				"apiUrl": "https://goerli.basescan.org/api"
+			}
+		}
+	},
+	"baseSepolia": {
+		"blockExplorers": {
+			"blockscout": {
+				"name": "Blockscout",
+				"url": "https://base-sepolia.blockscout.com",
+				"apiUrl": "https://base-sepolia.blockscout.com/api"
+			},
+			"default": {
+				"name": "Blockscout",
+				"url": "https://base-sepolia.blockscout.com",
+				"apiUrl": "https://base-sepolia.blockscout.com/api"
+			}
+		}
+	},
+	"bearNetworkChainMainnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "BrnkScan",
+				"url": "https://brnkscan.bearnetwork.net",
+				"apiUrl": "https://brnkscan.bearnetwork.net/api"
+			}
+		}
+	},
+	"bearNetworkChainTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "BrnkTestScan",
+				"url": "https://brnktest-scan.bearnetwork.net",
+				"apiUrl": "https://brnktest-scan.bearnetwork.net/api"
+			}
+		}
+	},
+	"bitTorrent": {
+		"blockExplorers": {
+			"etherscan": {
+				"name": "Bttcscan",
+				"url": "https://bttcscan.com",
+				"apiUrl": "https://api.bttcscan.com/api"
+			},
+			"default": {
+				"name": "Bttcscan",
+				"url": "https://bttcscan.com",
+				"apiUrl": "https://api.bttcscan.com/api"
+			}
+		}
+	},
+	"bitTorrentTestnet": {
+		"blockExplorers": {
+			"etherscan": {
+				"name": "Bttcscan",
+				"url": "https://testnet.bttcscan.com",
+				"apiUrl": "https://testnet.bttcscan.com/api"
+			},
+			"default": {
+				"name": "Bttcscan",
+				"url": "https://testnet.bttcscan.com",
+				"apiUrl": "https://testnet.bttcscan.com/api"
+			}
+		}
+	},
+	"boba": {
+		"blockExplorers": {
+			"default": {
+				"name": "BOBAScan",
+				"url": "https://bobascan.com"
+			}
+		}
+	},
+	"bronos": {
+		"blockExplorers": {
+			"default": {
+				"name": "BronoScan",
+				"url": "https://broscan.bronos.org"
+			}
+		}
+	},
+	"bronosTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "BronoScan",
+				"url": "https://tbroscan.bronos.org"
+			}
+		}
+	},
+	"bsc": {
+		"blockExplorers": {
+			"default": {
+				"name": "BscScan",
+				"url": "https://bscscan.com",
+				"apiUrl": "https://api.bscscan.com/api"
+			}
+		}
+	},
+	"bscTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "BscScan",
+				"url": "https://testnet.bscscan.com",
+				"apiUrl": "https://testnet.bscscan.com/api"
+			}
+		}
+	},
+	"bxn": {
+		"blockExplorers": {
+			"default": {
+				"name": "Blockscout",
+				"url": "https://explorer.blackfort.network",
+				"apiUrl": "https://explorer.blackfort.network/api"
+			}
+		}
+	},
+	"bxnTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Blockscout",
+				"url": "https://testnet-explorer.blackfort.network",
+				"apiUrl": "https://testnet-explorer.blackfort.network/api"
+			}
+		}
+	},
+	"canto": {
+		"blockExplorers": {
+			"default": {
+				"name": "Tuber.Build (Blockscout)",
+				"url": "https://tuber.build"
+			}
+		}
+	},
+	"celo": {
+		"blockExplorers": {
+			"default": {
+				"name": "Celo Explorer",
+				"url": "https://explorer.celo.org/mainnet",
+				"apiUrl": "https://explorer.celo.org/api"
+			}
+		}
+	},
+	"celoAlfajores": {
+		"blockExplorers": {
+			"default": {
+				"name": "Celo Explorer",
+				"url": "https://explorer.celo.org/alfajores",
+				"apiUrl": "https://explorer.celo.org/api"
+			}
+		}
+	},
+	"chiliz": {
+		"blockExplorers": {
+			"default": {
+				"name": "Chiliz Explorer",
+				"url": "https://scan.chiliz.com",
+				"apiUrl": "https://scan.chiliz.com/api"
+			}
+		}
+	},
+	"classic": {
+		"blockExplorers": {
+			"default": {
+				"name": "Blockscout",
+				"url": "https://blockscout.com/etc/mainnet"
+			}
+		}
+	},
+	"confluxESpace": {
+		"blockExplorers": {
+			"default": {
+				"name": "ConfluxScan",
+				"url": "https://evm.confluxscan.io"
+			}
+		}
+	},
+	"confluxESpaceTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "ConfluxScan",
+				"url": "https://evmtestnet.confluxscan.io"
+			}
+		}
+	},
+	"coreDao": {
+		"blockExplorers": {
+			"default": {
+				"name": "CoreDao",
+				"url": "https://scan.coredao.org"
+			}
+		}
+	},
+	"cronos": {
+		"blockExplorers": {
+			"default": {
+				"name": "Cronoscan",
+				"url": "https://cronoscan.com",
+				"apiUrl": "https://api.cronoscan.com/api"
+			}
+		}
+	},
+	"cronosTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Cronos Explorer",
+				"url": "https://cronos.org/explorer/testnet3"
+			}
+		}
+	},
+	"crossbell": {
+		"blockExplorers": {
+			"default": {
+				"name": "CrossScan",
+				"url": "https://scan.crossbell.io",
+				"apiUrl": "https://scan.crossbell.io/api"
+			}
+		}
+	},
+	"defichainEvm": {
+		"blockExplorers": {
+			"default": {
+				"name": "DeFiScan",
+				"url": "https://meta.defiscan.live"
+			},
+			"blockscout": {
+				"name": "Blockscout",
+				"url": "https://blockscout.mainnet.ocean.jellyfishsdk.com",
+				"apiUrl": "https://blockscout.mainnet.ocean.jellyfishsdk.com/api"
+			}
+		}
+	},
+	"defichainEvmTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "DeFiScan",
+				"url": "https://meta.defiscan.live/?network=TestNet"
+			},
+			"blockscout": {
+				"name": "Blockscout",
+				"url": "https://blockscout.testnet.ocean.jellyfishsdk.com",
+				"apiUrl": "https://blockscout.testnet.ocean.jellyfishsdk.com/api"
+			}
+		}
+	},
+	"dfk": {
+		"blockExplorers": {
+			"default": {
+				"name": "DFKSubnetScan",
+				"url": "https://subnets.avax.network/defi-kingdoms"
+			}
+		}
+	},
+	"dogechain": {
+		"blockExplorers": {
+			"default": {
+				"name": "DogeChainExplorer",
+				"url": "https://explorer.dogechain.dog",
+				"apiUrl": "https://explorer.dogechain.dog/api"
+			}
+		}
+	},
+	"edgeware": {
+		"blockExplorers": {
+			"default": {
+				"name": "Edgscan by Bharathcoorg",
+				"url": "https://edgscan.live",
+				"apiUrl": "https://edgscan.live/api"
+			}
+		}
+	},
+	"edgewareTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Edgscan by Bharathcoorg",
+				"url": "https://testnet.edgscan.live",
+				"apiUrl": "https://testnet.edgscan.live/api"
+			}
+		}
+	},
+	"ekta": {
+		"blockExplorers": {
+			"default": {
+				"name": "Ektascan",
+				"url": "https://ektascan.io",
+				"apiUrl": "https://ektascan.io/api"
+			}
+		}
+	},
+	"ektaTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Test Ektascan",
+				"url": "https://test.ektascan.io",
+				"apiUrl": "https://test.ektascan.io/api"
+			}
+		}
+	},
+	"eos": {
+		"blockExplorers": {
+			"default": {
+				"name": "EOS EVM Explorer",
+				"url": "https://explorer.evm.eosnetwork.com",
+				"apiUrl": "https://explorer.evm.eosnetwork.com/api"
+			}
+		}
+	},
+	"eosTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "EOS EVM Testnet Explorer",
+				"url": "https://explorer.testnet.evm.eosnetwork.com",
+				"apiUrl": "https://explorer.testnet.evm.eosnetwork.com/api"
+			}
+		}
+	},
+	"evmos": {
+		"blockExplorers": {
+			"default": {
+				"name": "Evmos Block Explorer",
+				"url": "https://escan.live"
+			}
+		}
+	},
+	"evmosTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Evmos Testnet Block Explorer",
+				"url": "https://evm.evmos.dev/"
+			}
+		}
+	},
+	"fantom": {
+		"blockExplorers": {
+			"default": {
+				"name": "FTMScan",
+				"url": "https://ftmscan.com",
+				"apiUrl": "https://api.ftmscan.com/api"
+			}
+		}
+	},
+	"fantomSonicTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Fantom Sonic Open Testnet Explorer",
+				"url": "https://public-sonic.fantom.network"
+			}
+		}
+	},
+	"fantomTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "FTMScan",
+				"url": "https://testnet.ftmscan.com",
+				"apiUrl": "https://testnet.ftmscan.com/api"
+			}
+		}
+	},
+	"fibo": {
+		"blockExplorers": {
+			"default": {
+				"name": "FiboScan",
+				"url": "https://scan.fibochain.org"
+			}
+		}
+	},
+	"filecoin": {
+		"blockExplorers": {
+			"default": {
+				"name": "Filfox",
+				"url": "https://filfox.info/en"
+			}
+		}
+	},
+	"filecoinCalibration": {
+		"blockExplorers": {
+			"default": {
+				"name": "Filscan",
+				"url": "https://calibration.filscan.io"
+			}
+		}
+	},
+	"filecoinHyperspace": {
+		"blockExplorers": {
+			"default": {
+				"name": "Filfox",
+				"url": "https://hyperspace.filfox.info/en"
+			}
+		}
+	},
+	"flare": {
+		"blockExplorers": {
+			"default": {
+				"name": "Flare Explorer",
+				"url": "https://flare-explorer.flare.network",
+				"apiUrl": "https://flare-explorer.flare.network/api"
+			}
+		}
+	},
+	"flareTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Coston2 Explorer",
+				"url": "https://coston2-explorer.flare.network",
+				"apiUrl": "https://coston2-explorer.flare.network/api"
+			}
+		}
+	},
+	"fuse": {
+		"blockExplorers": {
+			"default": {
+				"name": "Fuse Explorer",
+				"url": "https://explorer.fuse.io",
+				"apiUrl": "https://explorer.fuse.io/api"
+			}
+		}
+	},
+	"fuseSparknet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Sparkent Explorer",
+				"url": "https://explorer.fusespark.io",
+				"apiUrl": "https://explorer.fusespark.io/api"
+			}
+		}
+	},
+	"gnosis": {
+		"blockExplorers": {
+			"default": {
+				"name": "Gnosis Chain Explorer",
+				"url": "https://blockscout.com/xdai/mainnet"
+			}
+		}
+	},
+	"gnosisChiado": {
+		"blockExplorers": {
+			"default": {
+				"name": "Blockscout",
+				"url": "https://blockscout.chiadochain.net",
+				"apiUrl": "https://blockscout.chiadochain.net/api"
+			}
+		}
+	},
+	"gobi": {
+		"blockExplorers": {
+			"default": {
+				"name": "Gobi Explorer",
+				"url": "https://gobi-explorer.horizen.io"
+			}
+		}
+	},
+	"goerli": {
+		"blockExplorers": {
+			"default": {
+				"name": "Etherscan",
+				"url": "https://goerli.etherscan.io",
+				"apiUrl": "https://api-goerli.etherscan.io/api"
+			}
+		}
+	},
+	"haqqMainnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "HAQQ Explorer",
+				"url": "https://explorer.haqq.network",
+				"apiUrl": "https://explorer.haqq.network/api"
+			}
+		}
+	},
+	"haqqTestedge2": {
+		"blockExplorers": {
+			"default": {
+				"name": "HAQQ Explorer",
+				"url": "https://explorer.testedge2.haqq.network",
+				"apiUrl": "https://explorer.testedge2.haqq.network/api"
+			}
+		}
+	},
+	"harmonyOne": {
+		"blockExplorers": {
+			"default": {
+				"name": "Harmony Explorer",
+				"url": "https://explorer.harmony.one"
+			}
+		}
+	},
+	"iotex": {
+		"blockExplorers": {
+			"default": {
+				"name": "IoTeXScan",
+				"url": "https://iotexscan.io"
+			}
+		}
+	},
+	"iotexTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "IoTeXScan",
+				"url": "https://testnet.iotexscan.io"
+			}
+		}
+	},
+	"jbc": {
+		"blockExplorers": {
+			"default": {
+				"name": "Blockscout",
+				"url": "https://exp-l1.jibchain.net",
+				"apiUrl": "https://exp-l1.jibchain.net/api"
+			}
+		}
+	},
+	"karura": {
+		"blockExplorers": {
+			"default": {
+				"name": "Karura Blockscout",
+				"url": "https://blockscout.karura.network",
+				"apiUrl": "https://blockscout.karura.network/api"
+			}
+		}
+	},
+	"kava": {
+		"blockExplorers": {
+			"default": {
+				"name": "Kava EVM Explorer",
+				"url": "https://kavascan.com",
+				"apiUrl": "https://kavascan.com/api"
+			}
+		}
+	},
+	"kavaTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Kava EVM Testnet Explorer",
+				"url": "https://testnet.kavascan.com/",
+				"apiUrl": "https://testnet.kavascan.com/api"
+			}
+		}
+	},
+	"klaytn": {
+		"blockExplorers": {
+			"default": {
+				"name": "KlaytnScope",
+				"url": "https://scope.klaytn.com"
+			}
+		}
+	},
+	"klaytnBaobab": {
+		"blockExplorers": {
+			"etherscan": {
+				"name": "KlaytnScope",
+				"url": "https://baobab.klaytnscope.com"
+			},
+			"default": {
+				"name": "KlaytnScope",
+				"url": "https://baobab.klaytnscope.com"
+			}
+		}
+	},
+	"kroma": {
+		"blockExplorers": {
+			"default": {
+				"name": "Kroma Explorer",
+				"url": "https://blockscout.kroma.network",
+				"apiUrl": "https://blockscout.kroma.network/api"
+			}
+		}
+	},
+	"kromaSepolia": {
+		"blockExplorers": {
+			"default": {
+				"name": "Kroma Sepolia Explorer",
+				"url": "https://blockscout.sepolia.kroma.network",
+				"apiUrl": "https://blockscout.sepolia.kroma.network/api"
+			}
+		}
+	},
+	"linea": {
+		"blockExplorers": {
+			"default": {
+				"name": "Etherscan",
+				"url": "https://lineascan.build",
+				"apiUrl": "https://api.lineascan.build/api"
+			}
+		}
+	},
+	"lineaTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Etherscan",
+				"url": "https://goerli.lineascan.build",
+				"apiUrl": "https://goerli.lineascan.build/api"
+			}
+		}
+	},
+	"lukso": {
+		"blockExplorers": {
+			"default": {
+				"name": "LUKSO Mainnet Explorer",
+				"url": "https://explorer.execution.mainnet.lukso.network",
+				"apiUrl": "https://api.explorer.execution.mainnet.lukso.network/api"
+			}
+		}
+	},
+	"mainnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Etherscan",
+				"url": "https://etherscan.io",
+				"apiUrl": "https://api.etherscan.io/api"
+			}
+		}
+	},
+	"mandala": {
+		"blockExplorers": {
+			"default": {
+				"name": "Mandala Blockscout",
+				"url": "https://blockscout.mandala.aca-staging.network",
+				"apiUrl": "https://blockscout.mandala.aca-staging.network/api"
+			}
+		}
+	},
+	"manta": {
+		"blockExplorers": {
+			"etherscan": {
+				"name": "Manta Explorer",
+				"url": "https://pacific-explorer.manta.network",
+				"apiUrl": "https://pacific-explorer.manta.network/api"
+			},
+			"default": {
+				"name": "Manta Explorer",
+				"url": "https://pacific-explorer.manta.network",
+				"apiUrl": "https://pacific-explorer.manta.network/api"
+			}
+		}
+	},
+	"mantaTestnet": {
+		"blockExplorers": {
+			"etherscan": {
+				"name": "Manta Testnet Explorer",
+				"url": "https://pacific-explorer.testnet.manta.network",
+				"apiUrl": "https://pacific-explorer.testnet.manta.network/api"
+			},
+			"default": {
+				"name": "Manta Testnet Explorer",
+				"url": "https://pacific-explorer.testnet.manta.network",
+				"apiUrl": "https://pacific-explorer.testnet.manta.network/api"
+			}
+		}
+	},
+	"mantle": {
+		"blockExplorers": {
+			"default": {
+				"name": "Mantle Explorer",
+				"url": "https://explorer.mantle.xyz",
+				"apiUrl": "https://explorer.mantle.xyz/api"
+			}
+		}
+	},
+	"mantleTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Mantle Testnet Explorer",
+				"url": "https://explorer.testnet.mantle.xyz",
+				"apiUrl": "https://explorer.testnet.mantle.xyz/api"
+			}
+		}
+	},
+	"meter": {
+		"blockExplorers": {
+			"default": {
+				"name": "MeterScan",
+				"url": "https://scan.meter.io"
+			}
+		}
+	},
+	"meterTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "MeterTestnetScan",
+				"url": "https://scan-warringstakes.meter.io"
+			}
+		}
+	},
+	"metis": {
+		"blockExplorers": {
+			"default": {
+				"name": "Andromeda Explorer",
+				"url": "https://andromeda-explorer.metis.io",
+				"apiUrl": "https://andromeda-explorer.metis.io/api"
+			}
+		}
+	},
+	"metisGoerli": {
+		"blockExplorers": {
+			"default": {
+				"name": "Metis Goerli Explorer",
+				"url": "https://goerli.explorer.metisdevops.link",
+				"apiUrl": "https://goerli.explorer.metisdevops.link/api"
+			}
+		}
+	},
+	"mev": {
+		"blockExplorers": {
+			"default": {
+				"name": "Explorer",
+				"url": "https://www.meversescan.io"
+			}
+		}
+	},
+	"mevTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Explorer",
+				"url": "https://testnet.meversescan.io/"
+			}
+		}
+	},
+	"modeTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Blockscout",
+				"url": "https://sepolia.explorer.mode.network",
+				"apiUrl": "https://sepolia.explorer.mode.network/api"
+			}
+		}
+	},
+	"moonbaseAlpha": {
+		"blockExplorers": {
+			"default": {
+				"name": "Moonscan",
+				"url": "https://moonbase.moonscan.io",
+				"apiUrl": "https://moonbase.moonscan.io/api"
+			}
+		}
+	},
+	"moonbeam": {
+		"blockExplorers": {
+			"default": {
+				"name": "Moonscan",
+				"url": "https://moonscan.io",
+				"apiUrl": "https://api-moonbeam.moonscan.io/api"
+			}
+		}
+	},
+	"moonriver": {
+		"blockExplorers": {
+			"default": {
+				"name": "Moonscan",
+				"url": "https://moonriver.moonscan.io",
+				"apiUrl": "https://api-moonriver.moonscan.io/api"
+			}
+		}
+	},
+	"neonDevnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Neonscan",
+				"url": "https://devnet.neonscan.org"
+			}
+		}
+	},
+	"neonMainnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Neonscan",
+				"url": "https://neonscan.org"
+			}
+		}
+	},
+	"nexi": {
+		"blockExplorers": {
+			"default": {
+				"name": "NexiScan",
+				"url": "https://www.nexiscan.com",
+				"apiUrl": "https://www.nexiscan.com/api"
+			}
+		}
+	},
+	"nexilix": {
+		"blockExplorers": {
+			"default": {
+				"name": "NexilixScan",
+				"url": "https://scan.nexilix.com"
+			}
+		}
+	},
+	"oasisTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Ftnscan",
+				"url": "https://oasis.ftnscan.com",
+				"apiUrl": "https://oasis.ftnscan.com/api"
+			}
+		}
+	},
+	"oasys": {
+		"blockExplorers": {
+			"default": {
+				"name": "OasysScan",
+				"url": "https://scan.oasys.games",
+				"apiUrl": "https://scan.oasys.games/api"
+			}
+		}
+	},
+	"okc": {
+		"blockExplorers": {
+			"default": {
+				"name": "oklink",
+				"url": "https://www.oklink.com/okc"
+			}
+		}
+	},
+	"opBNB": {
+		"blockExplorers": {
+			"default": {
+				"name": "opbnbscan",
+				"url": "https://mainnet.opbnbscan.com"
+			}
+		}
+	},
+	"opBNBTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "opbnbscan",
+				"url": "https://testnet.opbnbscan.com"
+			}
+		}
+	},
+	"optimism": {
+		"blockExplorers": {
+			"default": {
+				"name": "Optimism Explorer",
+				"url": "https://explorer.optimism.io"
+			}
+		}
+	},
+	"optimismGoerli": {
+		"blockExplorers": {
+			"default": {
+				"name": "Etherscan",
+				"url": "https://goerli-optimism.etherscan.io",
+				"apiUrl": "https://goerli-optimism.etherscan.io/api"
+			}
+		}
+	},
+	"optimismSepolia": {
+		"blockExplorers": {
+			"default": {
+				"name": "Blockscout",
+				"url": "https://optimism-sepolia.blockscout.com",
+				"apiUrl": "https://optimism-sepolia.blockscout.com/api"
+			}
+		}
+	},
+	"pgn": {
+		"blockExplorers": {
+			"default": {
+				"name": "PGN Explorer",
+				"url": "https://explorer.publicgoods.network",
+				"apiUrl": "https://explorer.publicgoods.network/api"
+			},
+			"blocksout": {
+				"name": "PGN Explorer",
+				"url": "https://explorer.publicgoods.network",
+				"apiUrl": "https://explorer.publicgoods.network/api"
+			}
+		}
+	},
+	"pgnTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "PGN Testnet Explorer",
+				"url": "https://explorer.sepolia.publicgoods.network",
+				"apiUrl": "https://explorer.sepolia.publicgoods.network/api"
+			},
+			"blocksout": {
+				"name": "PGN Testnet Explorer",
+				"url": "https://explorer.sepolia.publicgoods.network",
+				"apiUrl": "https://explorer.sepolia.publicgoods.network/api"
+			}
+		}
+	},
+	"plinga": {
+		"blockExplorers": {
+			"default": {
+				"name": "Plgscan",
+				"url": "https://www.plgscan.com"
+			}
+		}
+	},
+	"polygon": {
+		"blockExplorers": {
+			"default": {
+				"name": "PolygonScan",
+				"url": "https://polygonscan.com",
+				"apiUrl": "https://api.polygonscan.com/api"
+			}
+		}
+	},
+	"polygonMumbai": {
+		"blockExplorers": {
+			"default": {
+				"name": "PolygonScan",
+				"url": "https://mumbai.polygonscan.com",
+				"apiUrl": "https://mumbai.polygonscan.com/api"
+			}
+		}
+	},
+	"polygonZkEvm": {
+		"blockExplorers": {
+			"default": {
+				"name": "PolygonScan",
+				"url": "https://zkevm.polygonscan.com",
+				"apiUrl": "https://api-zkevm.polygonscan.com/api"
+			}
+		}
+	},
+	"polygonZkEvmTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "PolygonScan",
+				"url": "https://testnet-zkevm.polygonscan.com",
+				"apiUrl": "https://testnet-zkevm.polygonscan.com/api"
+			}
+		}
+	},
+	"pulsechain": {
+		"blockExplorers": {
+			"default": {
+				"name": "PulseScan",
+				"url": "https://scan.pulsechain.com",
+				"apiUrl": "https://api.scan.pulsechain.com/api"
+			}
+		}
+	},
+	"pulsechainV4": {
+		"blockExplorers": {
+			"default": {
+				"name": "PulseScan",
+				"url": "https://scan.v4.testnet.pulsechain.com",
+				"apiUrl": "https://scan.v4.testnet.pulsechain.com/api"
+			}
+		}
+	},
+	"qMainnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Q Mainnet Explorer",
+				"url": "https://explorer.q.org",
+				"apiUrl": "https://explorer.q.org/api"
+			}
+		}
+	},
+	"qTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Q Testnet Explorer",
+				"url": "https://explorer.qtestnet.org",
+				"apiUrl": "https://explorer.qtestnet.org/api"
+			}
+		}
+	},
+	"rollux": {
+		"blockExplorers": {
+			"default": {
+				"name": "RolluxExplorer",
+				"url": "https://explorer.rollux.com",
+				"apiUrl": "https://explorer.rollux.com/api"
+			}
+		}
+	},
+	"rolluxTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "RolluxTestnetExplorer",
+				"url": "https://rollux.tanenbaum.io",
+				"apiUrl": "https://rollux.tanenbaum.io/api"
+			}
+		}
+	},
+	"ronin": {
+		"blockExplorers": {
+			"default": {
+				"name": "Ronin Explorer",
+				"url": "https://app.roninchain.com"
+			}
+		}
+	},
+	"rootstock": {
+		"blockExplorers": {
+			"blockscout": {
+				"name": "Blockscout",
+				"url": "https://rootstock.blockscout.com",
+				"apiUrl": "https://rootstock.blockscout.com/api"
+			},
+			"default": {
+				"name": "RSK Explorer",
+				"url": "https://explorer.rsk.co"
+			}
+		}
+	},
+	"saigon": {
+		"blockExplorers": {
+			"default": {
+				"name": "Saigon Explorer",
+				"url": "https://saigon-explorer.roninchain.com"
+			}
+		}
+	},
+	"sapphire": {
+		"blockExplorers": {
+			"default": {
+				"name": "Oasis Sapphire Explorer",
+				"url": "https://explorer.sapphire.oasis.io",
+				"apiUrl": "https://explorer.sapphire.oasis.io/api"
+			}
+		}
+	},
+	"sapphireTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Oasis Sapphire Testnet Explorer",
+				"url": "https://testnet.explorer.sapphire.oasis.dev",
+				"apiUrl": "https://testnet.explorer.sapphire.oasis.dev/api"
+			}
+		}
+	},
+	"scroll": {
+		"blockExplorers": {
+			"default": {
+				"name": "Scrollscan",
+				"url": "https://scrollscan.com",
+				"apiUrl": "https://api.scrollscan.com/api"
+			}
+		}
+	},
+	"scrollSepolia": {
+		"blockExplorers": {
+			"default": {
+				"name": "Blockscout",
+				"url": "https://sepolia-blockscout.scroll.io",
+				"apiUrl": "https://sepolia-blockscout.scroll.io/api"
+			}
+		}
+	},
+	"scrollTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Blockscout",
+				"url": "https://blockscout.scroll.io",
+				"apiUrl": "https://blockscout.scroll.io/api"
+			}
+		}
+	},
+	"sepolia": {
+		"blockExplorers": {
+			"default": {
+				"name": "Etherscan",
+				"url": "https://sepolia.etherscan.io",
+				"apiUrl": "https://api-sepolia.etherscan.io/api"
+			}
+		}
+	},
+	"shardeumSphinx": {
+		"blockExplorers": {
+			"default": {
+				"name": "Shardeum Explorer",
+				"url": "https://explorer-sphinx.shardeum.org"
+			}
+		}
+	},
+	"shibarium": {
+		"blockExplorers": {
+			"etherscan": {
+				"name": "Blockscout",
+				"url": "https://shibariumscan.io"
+			},
+			"default": {
+				"name": "Blockscout",
+				"url": "https://shibariumscan.io"
+			}
+		}
+	},
+	"shimmer": {
+		"blockExplorers": {
+			"default": {
+				"name": "Shimmer Network Explorer",
+				"url": "https://explorer.evm.shimmer.network",
+				"apiUrl": "https://explorer.evm.shimmer.network/api"
+			}
+		}
+	},
+	"shimmerTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Shimmer Network Explorer",
+				"url": "https://explorer.evm.testnet.shimmer.network",
+				"apiUrl": "https://explorer.evm.testnet.shimmer.network/api"
+			}
+		}
+	},
+	"skaleBlockBrawlers": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://frayed-decent-antares.explorer.mainnet.skalenodes.com",
+				"apiUrl": "https://frayed-decent-antares.explorer.mainnet.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleCalypso": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com",
+				"apiUrl": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleCalypsoTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://staging-utter-unripe-menkar.explorer.staging-v3.skalenodes.com",
+				"apiUrl": "https://staging-utter-unripe-menkar.explorer.staging-v3.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleChaosTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://staging-fast-active-bellatrix.explorer.staging-v3.skalenodes.com",
+				"apiUrl": "https://staging-fast-active-bellatrix.explorer.staging-v3.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleCryptoBlades": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://affectionate-immediate-pollux.explorer.mainnet.skalenodes.com",
+				"apiUrl": "https://affectionate-immediate-pollux.explorer.mainnet.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleCryptoColosseum": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://haunting-devoted-deneb.explorer.mainnet.skalenodes.com",
+				"apiUrl": "https://haunting-devoted-deneb.explorer.mainnet.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleEuropa": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://elated-tan-skat.explorer.mainnet.skalenodes.com",
+				"apiUrl": "https://elated-tan-skat.explorer.mainnet.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleEuropaTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://staging-legal-crazy-castor.explorer.staging-v3.skalenodes.com",
+				"apiUrl": "https://staging-legal-crazy-castor.explorer.staging-v3.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleExorde": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://light-vast-diphda.explorer.mainnet.skalenodes.com",
+				"apiUrl": "https://light-vast-diphda.explorer.mainnet.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleHumanProtocol": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://wan-red-ain.explorer.mainnet.skalenodes.com",
+				"apiUrl": "https://wan-red-ain.explorer.mainnet.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleNebula": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com",
+				"apiUrl": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleNebulaTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://staging-faint-slimy-achird.explorer.staging-v3.skalenodes.com",
+				"apiUrl": "https://staging-faint-slimy-achird.explorer.staging-v3.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleRazor": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://turbulent-unique-scheat.explorer.mainnet.skalenodes.com",
+				"apiUrl": "https://turbulent-unique-scheat.explorer.mainnet.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleTitan": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://parallel-stormy-spica.explorer.mainnet.skalenodes.com",
+				"apiUrl": "https://parallel-stormy-spica.explorer.mainnet.skalenodes.com/api"
+			}
+		}
+	},
+	"skaleTitanTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "SKALE Explorer",
+				"url": "https://staging-aware-chief-gianfar.explorer.staging-v3.skalenodes.com",
+				"apiUrl": "https://staging-aware-chief-gianfar.explorer.staging-v3.skalenodes.com/api"
+			}
+		}
+	},
+	"songbird": {
+		"blockExplorers": {
+			"default": {
+				"name": "Songbird Explorer",
+				"url": "https://songbird-explorer.flare.network",
+				"apiUrl": "https://songbird-explorer.flare.network/api"
+			}
+		}
+	},
+	"songbirdTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Coston Explorer",
+				"url": "https://coston-explorer.flare.network",
+				"apiUrl": "https://coston-explorer.flare.network/api"
+			}
+		}
+	},
+	"spicy": {
+		"blockExplorers": {
+			"default": {
+				"name": "Chiliz Explorer",
+				"url": "http://spicy-explorer.chiliz.com",
+				"apiUrl": "http://spicy-explorer.chiliz.com/api"
+			}
+		}
+	},
+	"syscoin": {
+		"blockExplorers": {
+			"default": {
+				"name": "SyscoinExplorer",
+				"url": "https://explorer.syscoin.org",
+				"apiUrl": "https://explorer.syscoin.org/api"
+			}
+		}
+	},
+	"syscoinTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "SyscoinTestnetExplorer",
+				"url": "https://tanenbaum.io"
+			}
+		}
+	},
+	"taikoJolnir": {
+		"blockExplorers": {
+			"default": {
+				"name": "blockscout",
+				"url": "https://explorer.jolnir.taiko.xyz"
+			}
+		}
+	},
+	"taikoKatla": {
+		"blockExplorers": {
+			"default": {
+				"name": "blockscout",
+				"url": "https://explorer.katla.taiko.xyz"
+			}
+		}
+	},
+	"taikoTestnetSepolia": {
+		"blockExplorers": {
+			"default": {
+				"name": "blockscout",
+				"url": "https://explorer.test.taiko.xyz"
+			}
+		}
+	},
+	"taraxa": {
+		"blockExplorers": {
+			"default": {
+				"name": "Taraxa Explorer",
+				"url": "https://explorer.mainnet.taraxa.io"
+			}
+		}
+	},
+	"taraxaTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Taraxa Explorer",
+				"url": "https://explorer.testnet.taraxa.io"
+			}
+		}
+	},
+	"telos": {
+		"blockExplorers": {
+			"default": {
+				"name": "Teloscan",
+				"url": "https://www.teloscan.io/"
+			}
+		}
+	},
+	"telosTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Teloscan (testnet)",
+				"url": "https://testnet.teloscan.io/"
+			}
+		}
+	},
+	"tenet": {
+		"blockExplorers": {
+			"default": {
+				"name": "TenetScan Mainnet",
+				"url": "https://tenetscan.io",
+				"apiUrl": "https://tenetscan.io/api"
+			}
+		}
+	},
+	"thunderTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "5ireChain Explorer",
+				"url": "https://explorer.5ire.network"
+			}
+		}
+	},
+	"vechain": {
+		"blockExplorers": {
+			"default": {
+				"name": "Vechain Explorer",
+				"url": "https://explore.vechain.org"
+			},
+			"vechainStats": {
+				"name": "Vechain Stats",
+				"url": "https://vechainstats.com"
+			}
+		}
+	},
+	"wanchain": {
+		"blockExplorers": {
+			"default": {
+				"name": "WanScan",
+				"url": "https://wanscan.org"
+			}
+		}
+	},
+	"wanchainTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "WanScanTest",
+				"url": "https://wanscan.org"
+			}
+		}
+	},
+	"wemix": {
+		"blockExplorers": {
+			"etherscan": {
+				"name": "wemixExplorer",
+				"url": "https://explorer.wemix.com"
+			},
+			"default": {
+				"name": "wemixExplorer",
+				"url": "https://explorer.wemix.com"
+			}
+		}
+	},
+	"wemixTestnet": {
+		"blockExplorers": {
+			"etherscan": {
+				"name": "wemixExplorer",
+				"url": "https://testnet.wemixscan.com",
+				"apiUrl": "https://testnet.wemixscan.com/api"
+			},
+			"default": {
+				"name": "wemixExplorer",
+				"url": "https://testnet.wemixscan.com",
+				"apiUrl": "https://testnet.wemixscan.com/api"
+			}
+		}
+	},
+	"xdc": {
+		"blockExplorers": {
+			"xinfin": {
+				"name": "XinFin",
+				"url": "https://explorer.xinfin.network"
+			},
+			"default": {
+				"name": "Blocksscan",
+				"url": "https://xdc.blocksscan.io"
+			}
+		}
+	},
+	"xdcTestnet": {
+		"blockExplorers": {
+			"xinfin": {
+				"name": "XinFin",
+				"url": "https://explorer.apothem.network"
+			},
+			"default": {
+				"name": "Blocksscan",
+				"url": "https://apothem.blocksscan.io"
+			}
+		}
+	},
+	"zetachainAthensTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "ZetaScan",
+				"url": "https://athens3.explorer.zetachain.com"
+			}
+		}
+	},
+	"zhejiang": {
+		"blockExplorers": {
+			"default": {
+				"name": "Beaconchain",
+				"url": "https://zhejiang.beaconcha.in"
+			}
+		}
+	},
+	"zilliqa": {
+		"blockExplorers": {
+			"default": {
+				"name": "Ethernal",
+				"url": "https://evmx.zilliqa.com"
+			}
+		}
+	},
+	"zilliqaTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Ethernal",
+				"url": "https://evmx.testnet.zilliqa.com"
+			}
+		}
+	},
+	"zkFair": {
+		"blockExplorers": {
+			"default": {
+				"name": "zkFair Explorer",
+				"url": "https://scan.zkfair.io",
+				"apiUrl": "https://scan.zkfair.io/api"
+			}
+		}
+	},
+	"zkFairTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "zkFair Explorer",
+				"url": "https://testnet-scan.zkfair.io"
+			}
+		}
+	},
+	"zkSync": {
+		"blockExplorers": {
+			"default": {
+				"name": "zkExplorer",
+				"url": "https://explorer.zksync.io"
+			}
+		}
+	},
+	"zkSyncSepoliaTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "zkExplorer",
+				"url": "https://sepolia.explorer.zksync.io/"
+			}
+		}
+	},
+	"zkSyncTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "zkExplorer",
+				"url": "https://goerli.explorer.zksync.io"
+			}
+		}
+	},
+	"zora": {
+		"blockExplorers": {
+			"default": {
+				"name": "Explorer",
+				"url": "https://explorer.zora.energy",
+				"apiUrl": "https://explorer.zora.energy/api"
+			}
+		}
+	},
+	"zoraSepolia": {
+		"blockExplorers": {
+			"default": {
+				"name": "Zora Sepolia Explorer",
+				"url": "https://sepolia.explorer.zora.energy/",
+				"apiUrl": "https://sepolia.explorer.zora.energy/api"
+			}
+		}
+	},
+	"zoraTestnet": {
+		"blockExplorers": {
+			"default": {
+				"name": "Explorer",
+				"url": "https://testnet.explorer.zora.energy",
+				"apiUrl": "https://testnet.explorer.zora.energy/api"
+			}
+		}
+	}
 }
